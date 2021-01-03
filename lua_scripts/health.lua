@@ -1,0 +1,1 @@
+Game.ModStatPlayer("Health", 9999)

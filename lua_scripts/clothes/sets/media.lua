@@ -1,0 +1,6 @@
+Game.AddToInventory("Items.Media_01_Set_Cap",1)
+Game.AddToInventory("Items.Media_01_Set_Pants",1)
+Game.AddToInventory("Items.Media_01_Set_Shirt",1)
+Game.AddToInventory("Items.Media_01_Set_Shoes",1)
+Game.AddToInventory("Items.Media_01_Set_Tech",1)
+Game.AddToInventory("Items.Media_01_Set_Vest",1)

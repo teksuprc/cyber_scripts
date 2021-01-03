@@ -1,0 +1,5 @@
+Game.AddToInventory("Items.Solo_01_Set_Visor", 1)
+Game.AddToInventory("Items.Solo_01_Set_TShirt", 1)
+Game.AddToInventory("Items.Solo_01_Set_Pants", 1)
+Game.AddToInventory("Items.Solo_01_Set_Jacket", 1)
+Game.AddToInventory("Items.Solo_01_Set_Boots", 1)

@@ -1,0 +1,5 @@
+Game.AddToInventory("Items.Fixer_01_Set_Coat",1)
+Game.AddToInventory("Items.Fixer_01_Set_FormalShoes",1)
+Game.AddToInventory("Items.Fixer_01_Set_Glasses",1)
+Game.AddToInventory("Items.Fixer_01_Set_Pants",1)
+Game.AddToInventory("Items.Fixer_01_Set_TShirt",1)

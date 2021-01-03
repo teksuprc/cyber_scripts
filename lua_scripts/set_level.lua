@@ -1,0 +1,7 @@
+Game.SetLevel("Level",50)
+Game.SetLevel("StreetCred",50)
+Game.SetAtt("Cool", 20)
+Game.SetAtt("Intelligence", 20)
+Game.SetAtt("Reflexes", 20)
+Game.SetAtt("Strength", 20)
+Game.SetAtt("TechnicalAbility", 20)

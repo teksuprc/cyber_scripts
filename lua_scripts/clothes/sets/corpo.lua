@@ -1,0 +1,5 @@
+Game.AddToInventory("Items.Corporate_01_Set_FormalJacket",1)
+Game.AddToInventory("Items.Corporate_01_Set_FormalShirt",1)
+Game.AddToInventory("Items.Corporate_01_Set_FormalShoes",1)
+Game.AddToInventory("Items.Corporate_01_Set_Glasses",1)
+Game.AddToInventory("Items.Corporate_01_Set_Pants",1)

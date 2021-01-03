@@ -1,0 +1,1 @@
+Game.ModStatPlayer("CarryCapacity", 9999)

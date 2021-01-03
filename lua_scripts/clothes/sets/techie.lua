@@ -1,0 +1,6 @@
+Game.AddToInventory("Items.Techie_01_Set_Cap", 1)
+Game.AddToInventory("Items.Techie_01_Set_Pants", 1)
+Game.AddToInventory("Items.Techie_01_Set_Shoes", 1)
+Game.AddToInventory("Items.Techie_01_Set_Tech", 1)
+Game.AddToInventory("Items.Techie_01_Set_TShirt", 1)
+Game.AddToInventory("Items.Techie_01_Set_Vest", 1)

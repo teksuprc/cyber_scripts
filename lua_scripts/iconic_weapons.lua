@@ -1,0 +1,5 @@
+Game.AddToInventory("Items.mq025_buck_gun",1)
+Game.AddToInventory("Items.Preset_Q001_Lexington",1)
+Game.AddToInventory("Items.mq008_golden_knuckledusters",1)
+Game.AddToInventory("Items.mq007_skippy",1)
+Game.AddToInventory("Items.sq029_rivers_gun", 1)
